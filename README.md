@@ -7,6 +7,7 @@
 - [Features](#features)
   - [Home](#home)
 - [UML Diagrams](#uml-diagrams)
+  - [Student](#student)
   - [Class Diagram](#class-diagram)
   - [Component Diagram](#component-diagram)
   - [Deployment Diagram](#deployment-diagram)
@@ -37,6 +38,10 @@ And the greater the no of stars, the greater will be the Reputation and, in futu
 The home interface for teacher will be like (tentative) this there will be one nav bar on teachers page the bar contains home upload and req’s section.
 
 ## UML Diagrams
+
+### Student
+
+![Student Class Diagram](UML%20Diagrams/student/class_diagram.dio.png)
 
 ### Class Diagram
 
